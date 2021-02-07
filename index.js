@@ -318,7 +318,7 @@ function lotsOfArt(array){
   }
   return newArray
 }
- console.log(lotsOfArt(artists))
+// console.log(lotsOfArt(artists))
 
 
 
