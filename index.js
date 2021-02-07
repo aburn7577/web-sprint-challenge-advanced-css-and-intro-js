@@ -357,3 +357,5 @@ export default{
   addArtist,
   lotsOfArt
 }
+
+const myName="ashley"
